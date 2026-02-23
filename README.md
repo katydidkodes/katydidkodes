@@ -1,16 +1,33 @@
-## Hi there 👋
+# katydidkodes
 
-<!--
-**katydidkodes/katydidkodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Early-stage researcher building computational literacy in genetics and neurodevelopment.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Research Direction
+
+- Polygenic architecture of ADHD and epilepsy
+- Neurodevelopmental genetics
+- Neuroimmune interactions in brain development
+- Functional interpretation of non-coding GWAS variants
+
+---
+
+## Current Focus
+
+- Understanding GWAS beyond association
+- Variant-to-function reasoning
+- Statistical thinking in complex traits
+- Building fluency in Python, R, and genomics workflows
+
+---
+
+## Active Projects
+
+- Neurogenetic blog (in progress)
+- GWAS interpretation exercises
+- Variant annotation practice
+
+---
+
+This page documents my path toward a PhD in computational biology.
